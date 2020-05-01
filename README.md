@@ -3,9 +3,29 @@
 ![Interviewbit](images/logo.png)
 
 
-## What you can find in this repository
+## What you can find in this repository  ---- daily updates
 
 You will find notes about compeititve programming, time and space analysis, algorithm and data structures and advices that I have matured during my experience and studies. 
+
+|    Name  | Number of solutions |
+|----------|:----------------:|
+|[Array](array/README.md)|1|
+|[Time Complexity](time-complexity/README.md)|7|
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
+|[ ]( )|  |
 
 I have solved quite a number of problems from several topics. See the below table for further details.
 [View my profile](https://www.interviewbit.com/profile/omonimus1)
