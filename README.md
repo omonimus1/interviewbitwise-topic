@@ -10,22 +10,11 @@ You will find notes about compeititve programming, time and space analysis, algo
 |    Name  | Number of solutions |
 |----------|:----------------:|
 |[Array](array/README.md)|1|
-|[Time Complexity](time-complexity/README.md)|7|
+|[Time Complexity](time-complexity/README.md)|10|
 |[Math](math/README.md)|3|
-|[Binary Search](binary-search/README.md)|1|
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
-|[ ]( )|  |
+|[Binary Search](binary-search/README.md)|2|
+|[Linked List](linked-list/README.md)|1|
+|[Databases](databases/README.md)|1|
 
 I have solved quite a number of problems from several topics. See the below table for further details.
 [View my profile](https://www.interviewbit.com/profile/omonimus1)
