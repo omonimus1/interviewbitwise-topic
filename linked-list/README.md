@@ -1,4 +1,5 @@
-## Time complexity
+## Linked list
+
 |    Name  |Answer |
 |----------|:----------------:|
 |[Palindrome linked list](https://www.interviewbit.com/problems/palindrome-list/) |[C++](palindrome-list.cpp)|
