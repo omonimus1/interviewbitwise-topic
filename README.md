@@ -16,6 +16,7 @@ You will find notes about compeititve programming, time and space analysis, algo
 |[Linked List](linked-list/README.md)|2|
 |[Databases](databases/README.md)|1|
 |[Stack and queue](stack-and-queue/README.md)|1|
+|[String](string/README.md)|2|
 
 
 ## How to contribute?
