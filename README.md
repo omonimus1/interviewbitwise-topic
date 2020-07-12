@@ -12,6 +12,7 @@ You will find notes about compeititve programming, time and space analysis, algo
 |[Array](array/README.md)|1|
 |[Time Complexity](time-complexity/README.md)|10|
 |[Math](math/README.md)|3|
+|[Bit manipulation](bit-manipulation/README.md)|2|
 |[Binary Search](binary-search/README.md)|2|
 |[Linked List](linked-list/README.md)|2|
 |[Databases](databases/README.md)|1|
